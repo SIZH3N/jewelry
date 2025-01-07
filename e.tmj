@@ -3156,6 +3156,40 @@
                  "width":0,
                  "x":256,
                  "y":640
+                }, 
+                {
+                 "height":268,
+                 "id":240,
+                 "name":"silent1",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":954,
+                 "x":8,
+                 "y":664
+                }, 
+                {
+                 "height":222,
+                 "id":241,
+                 "name":"silent",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":768,
+                 "x":92,
+                 "y":446
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3525,7 +3559,7 @@
          "y":0
         }],
  "nextlayerid":314,
- "nextobjectid":240,
+ "nextobjectid":242,
  "orientation":"orthogonal",
  "properties":[
         {
