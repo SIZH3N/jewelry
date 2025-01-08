@@ -4980,19 +4980,6 @@
         {
          "columns":42,
          "firstgid":81316,
-         "image":"..\/star\/tilesets\/Exterior4.png",
-         "imageheight":1280,
-         "imagewidth":1344,
-         "margin":0,
-         "name":"Exterior4",
-         "spacing":0,
-         "tilecount":1680,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":42,
-         "firstgid":82996,
          "image":"tilesets\/Exterior4.png",
          "imageheight":1280,
          "imagewidth":1344,
