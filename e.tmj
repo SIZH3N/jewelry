@@ -4826,7 +4826,7 @@
         {
          "columns":64,
          "firstgid":72790,
-         "image":"..\/star\/tilesets\/Flat_Office.png",
+         "image":"tilesets\/Flat_Office.png",
          "imageheight":2048,
          "imagewidth":2048,
          "margin":0,
@@ -4889,7 +4889,7 @@
         {
          "columns":12,
          "firstgid":76982,
-         "image":"..\/star\/tilesets\/Furniture1.png",
+         "image":"tilesets\/Furniture1.png",
          "imageheight":416,
          "imagewidth":384,
          "margin":0,
@@ -4902,7 +4902,7 @@
         {
          "columns":10,
          "firstgid":77138,
-         "image":"..\/star\/tilesets\/Furniture22.png",
+         "image":"tilesets\/Furniture22.png",
          "imageheight":352,
          "imagewidth":320,
          "margin":0,
@@ -4915,7 +4915,7 @@
         {
          "columns":16,
          "firstgid":77248,
-         "image":"..\/star\/tilesets\/roof1.png",
+         "image":"tilesets\/roof1.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -4928,7 +4928,7 @@
         {
          "columns":10,
          "firstgid":77504,
-         "image":"..\/star\/tilesets\/tablels.png",
+         "image":"tilesets\/tablels.png",
          "imageheight":864,
          "imagewidth":320,
          "margin":0,
@@ -4941,7 +4941,7 @@
         {
          "columns":13,
          "firstgid":77774,
-         "image":"..\/star\/tilesets\/Seats1.png",
+         "image":"tilesets\/Seats1.png",
          "imageheight":448,
          "imagewidth":416,
          "margin":0,
