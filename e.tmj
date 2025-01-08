@@ -2903,6 +2903,11 @@
                          "value":true
                         }, 
                         {
+                         "name":"jitsiConfig ",
+                         "type":"string",
+                         "value":"{ \"deeplinking\": { \"disabled\": true} }"
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
                          "value":"MeetingRoom"
@@ -3190,6 +3195,117 @@
                  "width":768,
                  "x":92,
                  "y":446
+                }, 
+                {
+                 "height":64,
+                 "id":242,
+                 "name":"website",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/drive.google.com\/file\/d\/1RgwT4HM1m0bMr98U-tBvGqEr42iz052g\/preview"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":108.5,
+                 "x":157.5,
+                 "y":491
+                }, 
+                {
+                 "height":64,
+                 "id":243,
+                 "name":"website2",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/drive.google.com\/file\/d\/14al2nyC1ec5qSbU3t1_RxMdIr73xuQfK\/preview"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":108.5,
+                 "x":423,
+                 "y":496
+                }, 
+                {
+                 "height":64,
+                 "id":245,
+                 "name":"website3",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/drive.google.com\/file\/d\/14al2nyC1ec5qSbU3t1_RxMdIr73xuQfK\/preview"
+                        }, 
+                        {
+                         "name":"openWebsiteClosable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"fullscreen"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteWidth",
+                         "type":"int",
+                         "value":40
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":108.5,
+                 "x":703,
+                 "y":495
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3559,7 +3675,7 @@
          "y":0
         }],
  "nextlayerid":314,
- "nextobjectid":242,
+ "nextobjectid":247,
  "orientation":"orthogonal",
  "properties":[
         {
