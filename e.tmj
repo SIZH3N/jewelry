@@ -4876,7 +4876,7 @@
         {
          "columns":12,
          "firstgid":76886,
-         "image":"..\/star\/tilesets\/Decoration1.png",
+         "image":"tilesets\/Decoration1.png",
          "imageheight":256,
          "imagewidth":384,
          "margin":0,
