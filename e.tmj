@@ -4813,7 +4813,7 @@
         {
          "columns":8,
          "firstgid":71726,
-         "image":"..\/star\/tilesets\/all1.png",
+         "image":"tilesets\/all1.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
